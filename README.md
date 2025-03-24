@@ -1,5 +1,5 @@
-# Electricity Demand Analysis & Forecasting
-Electricity Demand Analysis & Forecasting
+# Electricity Demand Analysis 
+Electricity Demand Analysis 
 A Data Science project for electricity demand prediction using EDA & Machine Learning.
 
 🔹 Key Features
